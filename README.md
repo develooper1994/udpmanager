@@ -1,5 +1,6 @@
 # udpmanager
-Get data from main thread and listen from another thread without blocking the main application with 2 socket
+- Description: udpmanager is a meticulously crafted process management library, named Commander, designed to be user-friendly and easy to use. It is specifically tailored for my projects and utilizes the power of Qt6. The library empowers developers with intuitive process management capabilities, enabling efficient handling and control of processes in their applications.
+- Technologies used: C++, Qt6
 
 - QUdpSocket
 - You have 2 socket.
