@@ -6,3 +6,6 @@ Get data from main thread and listen from another thread without blocking the ma
 - Sender socket sends data from main thread
 - Receiver listen from another thread that hidden from programmer.
 - Easy to use class.
+
+# IMPORTANT NOTE!
+***You have to define and change the source code for your needs!***
